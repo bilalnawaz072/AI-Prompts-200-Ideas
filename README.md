@@ -55,7 +55,7 @@ Here is over 100 AI prompts that covers Blog Writing, Email Marketing , YouTube 
 14.  “I’m looking for a YouTube ad script that will draw in my [ideal customer persona] with a relatable and authentic message, and then persuade them to take [desired action] with a strong call-to action and compelling visuals.”
 15.  “I’m looking for a YouTube ad script that will engage my [ideal customer persona] with a unique and compelling perspective on [subject] and persuade them to take [desired action] on my [website/product].”
 
-• Chapter 4: Facebook Ad Copy Prompts.
+## Facebook Ad Copy Prompts.
 
 1.  “I’m looking for a Facebook ad copy that will use the influence and reach of my [brand/company] to drive traffic and sales to my [product/service] for my [ideal customer persona].”
 2.  “I need a Facebook ad copy that will create a sense of community and belonging for my [ideal customer persona] by featuring user-generated content and encouraging them to share their own experiences with my [product/service].”
@@ -73,7 +73,7 @@ Here is over 100 AI prompts that covers Blog Writing, Email Marketing , YouTube 
 14.  “I need a Facebook ad copy that will engage my [ideal customer persona] with [specific type of content] from [influencer type] who can authentically share the benefits of my [product/service] and encourage them to make a purchase.”
 15.  “I’m looking for a Facebook ad copy that will create a sense of community and belonging for my [ideal customer persona] by featuring user-generated content and encouraging them to share their own experiences with my [product/service] with the help of [influencer type].”
 
-• Chapter 5: YouTube Video Ideas Prompts.
+## YouTube Video Ideas Prompts.
 
 1.  “I need a YouTube video idea that will both go viral and persuade my [ideal customer persona] to take [desired action] on my [website/product] with a strong call-to-action and compelling visuals.”
 2.  “I’m looking for a YouTube video idea that will tell a unique and relatable story about my [product/service] and how it has helped [ideal customer persona] achieve their [goal].”
@@ -91,7 +91,7 @@ Here is over 100 AI prompts that covers Blog Writing, Email Marketing , YouTube 
 14.  “I need a YouTube video idea that will demonstrate how my [product/service] can solve the specific pain points and needs of my [ideal customer persona] in a relatable and engaging way.”
 15.  “I need a YouTube video idea that will compare my [product/service] to similar options on the market and persuade my [ideal customer persona] to choose us with clear and compelling evidence.”
 
-• Chapter 6: Twitter Thread Ideas Prompts.
+## Twitter Thread Ideas Prompts.
 
 1.  “I’m looking for a Twitter thread idea that will provide valuable and relevant information to my [ideal customer persona] about [subject] and attract high-quality leads with a strong call-to action.”
 2.  “I’m looking for a Twitter thread idea that will tell a unique and relatable story about my [product/service] and how it has helped [ideal customer persona] achieve their [goal].”
@@ -109,7 +109,7 @@ Here is over 100 AI prompts that covers Blog Writing, Email Marketing , YouTube 
 14.  “I need a Twitter thread idea that will provide a step-by-step guide on how to use my [product/service] and attract high-quality leads with clear and compelling instructions.”
 15.  “I need a Twitter thread idea that will draw in my [ideal customer persona] with a relatable and authentic message, and then persuade them to take [desired action] with a strong call-to-action and compelling visuals.”
 
-• Chapter 7: Cold DM Ideas Prompts.
+## Cold DM Ideas Prompts.
 
 1.  “I’m looking for a cold DM idea that will use the influence and reach of my [brand/company] to drive traffic and sales to my [product/service] for my [ideal customer persona].”
 2.  “I need a cold DM idea that will provide valuable and relevant information to my [ideal customer persona] about [subject] and persuade them to take [desired action] with a personalized message.”
@@ -127,7 +127,7 @@ Here is over 100 AI prompts that covers Blog Writing, Email Marketing , YouTube 
 14.  “I need a cold DM idea that will leverage the authority and expertise of my [brand/company] to educate my [ideal customer persona] on the benefits of my [product/service] and persuade them to make a purchase.”
 15.  “I’m looking for a cold DM idea that will showcase the unique and personal experiences of my [ideal customer persona] with my [product/service] and persuade them to share their positive review with their followers.”
 
-• Chapter 8: Cold Email Ideas Prompts.
+## Cold Email Ideas Prompts.
 
 1.  “I need a cold email idea that will demonstrate how my [product/service] can solve the specific pain points and needs of my [ideal customer persona] in a relatable and engaging way.”
 2.  “I need a cold email idea that will establish credibility and authority with my [ideal customer persona] by showcasing the success stories of previous customers who have used my [product/service].”
@@ -145,7 +145,7 @@ Here is over 100 AI prompts that covers Blog Writing, Email Marketing , YouTube 
 14.  “I need a cold email idea that will provide a unique and compelling offer to my [ideal customer persona] and persuade them to take [desired action] with a sense of urgency and exclusivity.”
 15.  “I’m looking for a cold email idea that will showcase the unique selling points of my [product/service] and persuade my [ideal customer persona] to make a purchase with a sense of urgency and exclusive offers.”
 
-• Chapter 9: Influencer Marketing Prompts.
+## Influencer Marketing Prompts.
 
 1.  “I’m looking for an influencer marketing campaign outline that will showcase my [product/service] to my [ideal customer persona] and persuade them to take [desired action] with the help of [influencer type] who aligns with our brand values.”
 2.  “I need an influencer marketing campaign outline that will engage my [ideal customer persona] with [specific type of content] from [influencer type] who can showcase the unique features and benefits of our [product/service] in a fun and creative way.”
@@ -163,7 +163,7 @@ Here is over 100 AI prompts that covers Blog Writing, Email Marketing , YouTube 
 14.  “I’m looking for an influencer marketing campaign outline that will target my [ideal customer persona] with [specific type of content] from [influencer type] who can share valuable and relevant information about our [product/service] and encourage them to take [desired action].”
 15.  “I need an influencer marketing campaign outline that will leverage the authenticity and relatability of [influencer type] to engage my [ideal customer persona] and persuade them to take [desired action] on our [product/service].”
 
-• Chapter 10: Copywriting Prompt Prompts.
+## Copywriting Prompt Prompts.
 
 1.  “I need a [type of text] that will address the pain points and needs of my [ideal customer persona] and show them how my [product/service] is the solution they’ve been searching for.”
 2.  “I’m looking for a [type of text] that will convince [ideal customer persona] to sign up for my [program/subscription] by explaining the value it brings and the benefits they’ll receive.”
@@ -181,7 +181,7 @@ Here is over 100 AI prompts that covers Blog Writing, Email Marketing , YouTube 
 14.  “I need a [type of text] that will make my [ideal customer persona] feel [emotion] about my [product/service] and persuade them to take [desired action] with a sense of urgency.”
 15.  “I’m looking for a [type of text] that will establish trust and credibility with my [ideal customer persona] by highlighting the successes and testimonials of previous customers who have used my [product/service].”
 
-• Chapter 11: Instagram Story Prompts.
+## Instagram Story Prompts.
 
 1.  “I’m looking for an Instagram story idea that will engage my [ideal customer persona] with behind the-scenes content and persuade them to take [desired action] with a sense of exclusivity and authenticity.”
 2.  “I need an Instagram story idea that will provide valuable and relevant information to my [ideal customer persona] about [subject] and persuade them to take [desired action] with a clear and compelling message.”
