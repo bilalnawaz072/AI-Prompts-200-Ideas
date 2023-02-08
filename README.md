@@ -1,5 +1,5 @@
 # Exploring-the-Possibilities-of-AI-Prompts-Over-100-Ideas
-Here is over 100 AI prompts that covers Blog Writing, Email Marketing , YouTube Ad Scripts, Facebook Ad,YouTube Video Ideas,Twitter Thread ,Cold DM Ideas,Influencer Marketing and Copywriting and Instagram Story.
+Here is over 200 AI prompts that covers Blog Writing, Email Marketing , YouTube Ad Scripts, Facebook Ad,YouTube Video Ideas,Twitter Thread ,Cold DM Ideas,Influencer Marketing and Copywriting and Instagram Story.
 
 # ChatGPT Prompts
 
