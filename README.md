@@ -3,7 +3,7 @@ Here is over 100 AI prompts that covers Blog Writing, Email Marketing , YouTube 
 
 # ChatGPT Prompts
 
-## Blog WritingEmail Marketing Prompts.
+## Blog Writing Prompts.
 1.  “I’m looking for a [type of blog post] that will speak directly to my [ideal customer persona] and persuade them to take [desired action] on my [website/product].”
 2.  “I’m looking for a [type of blog post] that will establish trust and credibility with my [ideal customer persona] by highlighting the successes and testimonials of previous customers who have used my [product/service].”
 3.  “I need a [type of blog post] that will convince my [ideal customer persona] to purchase my [product/service] by highlighting its unique benefits and addressing any potential objections.”
